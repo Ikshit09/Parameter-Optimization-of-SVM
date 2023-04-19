@@ -91,4 +91,18 @@
 
 ![image](https://user-images.githubusercontent.com/95186674/233202457-0d594f88-91a3-4ba5-a434-f13194f64744.png)
 
+## Result
+
+![image](https://user-images.githubusercontent.com/95186674/233205014-56cedd98-4531-4741-90b9-4bd66ee6922c.png)
+
+
+## Best Accuracy 
+	###89% 
+	###Using Kernel ->    rbf	
+	###Nu	     ->    9.89
+	###Epsilon      ->    1.98
+	
+## Convergence Graph
+
+![image](https://user-images.githubusercontent.com/95186674/233205491-f42fbcc0-2692-4723-8222-6f6b205398e0.png)
 
