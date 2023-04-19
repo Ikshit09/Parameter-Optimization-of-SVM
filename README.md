@@ -80,20 +80,20 @@
 
 ### Class Distribution:
 
-draw       2796
-zero         27
-one          78
-two         246
-three        81
-four        198
-five        471
-six         592
-seven       683
-eight      1433
-nine       1712
-ten        1985
-eleven     2854
-twelve     3597
+draw       2796__
+zero         27__
+one          78__
+two         246__
+three        81__
+four        198__
+five        471__
+six         592__
+seven       683__
+eight      1433__
+nine       1712__
+ten        1985__
+eleven     2854__
+twelve     3597__
 thirteen   4194
 fourteen   4553
 fifteen    2166
