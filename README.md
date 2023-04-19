@@ -81,7 +81,7 @@
 ### Class Distribution:
 
 
-	![image](https://user-images.githubusercontent.com/95186674/233204515-7259de80-08dd-4e35-a0d3-1ff2455c18eb.png)
+![image](https://user-images.githubusercontent.com/95186674/233204515-7259de80-08dd-4e35-a0d3-1ff2455c18eb.png)
 
 
 
