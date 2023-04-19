@@ -97,10 +97,10 @@
 
 
 ## Best Accuracy 
-	### 89% 
-	### Using Kernel ->    rbf	
-	### Nu	     ->    9.89
-	### Epsilon      ->    1.98
+### 89% 
+### Using Kernel ->    rbf	
+### Nu	     ->    9.89
+### Epsilon      ->    1.98
 	
 ## Convergence Graph
 
