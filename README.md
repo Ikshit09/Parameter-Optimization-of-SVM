@@ -80,10 +80,10 @@
 
 ### Class Distribution:
 
-   draw       2796
-   zero         27
-   one          78
-   two         246
+   -- draw       2796
+   -- zero         27
+   -- one          78
+   -- two         246
    three        81
    four        198
    five        471
