@@ -80,26 +80,10 @@
 
 ### Class Distribution:
 
-draw       2796__
-zero         27__
-one          78__
-two         246__
-three        81__
-four        198__
-five        471__
-six         592__
-seven       683__
-eight      1433__
-nine       1712__
-ten        1985__
-eleven     2854__
-twelve     3597__
-thirteen   4194
-fourteen   4553
-fifteen    2166
-sixteen     390
 
-Total     28056
+	![image](https://user-images.githubusercontent.com/95186674/233204430-6587fbaf-5922-4e1a-98bb-ad86fa42001b.png)
+
+
 
 ## Dataset
 
